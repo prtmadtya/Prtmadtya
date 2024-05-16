@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Aditya!
-Having knowledge to create web automation using Cucumber Selenium Java and Cypress. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira.
+I'm currently learning about Software Quality Assurance. Having knowledge to create web automation using Cucumber Selenium Java. API Testing using Postman and Cypress. Performance Testing using Grafana K6 And having knowledge about Project Management Tools such a Trello.
 
 ## 📈Stats
 <p align="left">
@@ -31,7 +31,6 @@ Having knowledge to create web automation using Cucumber Selenium Java and Cypre
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Newman](https://img.shields.io/badge/-newman-181717?style=for-the-badge&logo=newman)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -40,7 +39,7 @@ Having knowledge to create web automation using Cucumber Selenium Java and Cypre
 ## 🔗Connect
 <p>
     <a href="https://www.linkedin.com/in/prtmadty" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/prtmadty/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://www.instagram.com/prtmadty/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
 </p>
 
 
